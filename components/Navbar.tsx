@@ -5,10 +5,10 @@ import Image from 'next/image'
 import HeadeImg from '../pages/assest/ruuartsy.jpg'
 
 const navigation = [
-  { name: 'Home', href: 'Ruuartsy', current: true },
-  { name: 'About', href: 'Ruuartsy/about', current: false },
-  { name: 'My Works', href: 'Ruuartsy/portfolio', current: false },
-  { name: 'Contact', href: 'Ruuartsy/contact', current: false },
+  { name: 'Home', href: '/Ruuartsy', current: true },
+  { name: 'About', href: '/Ruuartsy/about', current: false },
+  { name: 'My Works', href: '/Ruuartsy/portfolio', current: false },
+  { name: 'Contact', href: '/Ruuartsy/contact', current: false },
 ]
 
 function classNames(...classes: string[]) {
