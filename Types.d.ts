@@ -19,7 +19,7 @@ type WrapperProps = {
     id: number;
     img: string;
     name: string;
-    tools: string[];
+   href:string;
   };
   type CountUpProps = {
     start: number
