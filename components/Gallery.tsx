@@ -24,7 +24,7 @@ export const Gallery = () => {
     {
       name: 'Travel',
       description: 'Daily commute essentials',
-      imageSrc: 'https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/384989326_122120435162031337_1477327784974440547_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=49d041&_nc_ohc=GgChyRskMawAX8Nmr0r&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfCQYQY9OTZj2hfXjPkLkJGqd00MVRoXkMDBX2_W1aDm9A&oe=652180BA',
+      imageSrc: 'https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/385417067_122120446874031337_8979711267993173658_n.jpg?stp=dst-jpg_s600x600&_nc_cat=106&ccb=1-7&_nc_sid=49d041&_nc_ohc=cXnaNcmT7zoAX-Zz0Cv&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfC9rxW9dOAMRapUtYysWL10AKkg37J3a8aW5hgBDHyfnA&oe=6521678A',
       imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
       href: '#',
     },
