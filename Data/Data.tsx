@@ -11,9 +11,9 @@ import { HiOutlineCamera } from "react-icons/hi";
 
 const navLinks: NavLink[] = [
   { path: "/", label: "Home" },
-  { path: "/about", label: "About" },
-  { path: "/portfolio", label: "Portfolio" },
-  { path: "/contact", label: "Contact" },
+  { path: "/Ruuartsy/about", label: "About" },
+  { path: "/Ruuartsy/portfolio", label: "Portfolio" },
+  { path: "/Ruuartsy/contact", label: "Contact" },
 ];
 
 const services: ServiceProps[] = [
